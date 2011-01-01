@@ -51,6 +51,8 @@ set incsearch		" Incremental search
 "set hidden             " Hide buffers when they are abandoned
 "set mouse=a		" Enable mouse usage (all modes) in terminals
 
+let mapleader = ","
+
 " Shortcut to open a new tab
 map ,nt <Esc>:tabnew<CR>
 
