@@ -142,3 +142,4 @@ map ,rs :source $MYVIMRC<CR>
 " Set the current directory as the root of all commands
 map ,cd :cd %:p:h<CR>
 
+au BufNewFile,BufRead *.feature set filetype=cucumber
