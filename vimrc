@@ -134,7 +134,7 @@ function! Auto_Highlight_Toggle()
 endfunction
 
 " Color settings
-set t_Co=256 " set 256 color terminal
+" set t_Co=256 " set 256 color terminal
 
 " Reload the vimrc file
 map ,rs :source $MYVIMRC<CR>
