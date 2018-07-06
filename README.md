@@ -1,3 +1,3 @@
 # VIM Configuration Files
 
-    $ ./script.sh
+    $ ./setup.sh
